@@ -45,12 +45,16 @@
 
 # Results :
 ## from the demo
+	
 <p align="center">
   <img align="center" width=80% src = "https://user-images.githubusercontent.com/55143087/226627262-5fc6d14d-a4af-42eb-a4a8-95de8e4b22a6.png"/>
 </p>
+	
 ## from my code
+	
 <p align="center">
   <img align="center" width=80% src = "https://user-images.githubusercontent.com/55143087/226627406-a64bc6e7-e05b-4047-b97b-2c25a06e5a67.png"/>
 </p>
+	
 </div>
 
